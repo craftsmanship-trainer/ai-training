@@ -1,1 +1,6 @@
 - Mutton
+- Chicken
+- Fish
+- Prawn
+- Beef
+- Rabbit
